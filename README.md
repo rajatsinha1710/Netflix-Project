@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+### `You can check out the website using this link given`
+https://quiet-selkie-849a52.netlify.app/
 
 ## Available Scripts
 
